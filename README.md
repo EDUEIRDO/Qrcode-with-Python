@@ -3,5 +3,4 @@
 
 # Packages
 ## Use pip with python
-
-### * pip install qrcode
+*pip install qrcode
